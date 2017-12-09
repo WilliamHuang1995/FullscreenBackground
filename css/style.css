@@ -72,6 +72,14 @@ body{
   padding: 1rem 2rem;
   text-decoration: none;
 }
+
+.section{
+  padding: 20px 0px;
+}
+.section-b{
+  background: #333;
+  color:white;
+}
 @media(max-width:960px){
   .container{
     padding-right:3rem;
